@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\tl2-tp3-2022-Samperc\obj\Debug\net6.0\tl2-tp3-2022-Samperc.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tl2-tp3-2022-Samperc\obj\Debug\net6.0\tl2-tp3-2022-Samperc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tl2-tp3-2022-Samperc\obj\Debug\net6.0\tl2-tp3-2022-Samperc.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tl2-tp3-2022-Samperc\obj\Debug\net6.0\tl2-tp3-2022-Samperc.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tl2-tp3-2022-Samperc\obj\Debug\net6.0\tl2-tp3-2022-Samperc.csproj.CoreCompileInputs.cache
